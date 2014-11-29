@@ -208,6 +208,7 @@ entityDef weapon_machinegun_mp
 	"recoilTime"				"0"
 	"recoilAngles"				"0 0 0"
 	"def_hitscan"				"hitscan_bullet_mp"
+	"def_projectile2"			"projectile_grenade"
 	"def_althitscan"			"hitscan_zoomed_bullet_mp"
 	"altFireRate"				".2"
 	
