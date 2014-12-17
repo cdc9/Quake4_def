@@ -204,7 +204,7 @@ entityDef damage_gauntlet
 	"deathPush"					"200"
 	"deathPushMin"				"2000 400"
 	"deathPushMax"				"4000 500"
-	"knockback"					"50"
+	"knockback"					"100"
 	
 	"bleed"						"1"
 }
